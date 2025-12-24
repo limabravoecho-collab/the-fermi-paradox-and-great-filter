@@ -1,4 +1,3 @@
-```markdown
 # Resolution: The Fermi Paradox and The Great Filter
 
 This resolution is designed to meet the requirements of the core indivisible component of the problem. I avoided adding other information that will branch off to other questions/systems.
